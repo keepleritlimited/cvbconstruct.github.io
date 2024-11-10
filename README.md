@@ -1,4 +1,4 @@
-# Construction Company Website-Template
+# CVB Construct Ltd Company Website
 > A simple website template with some interesting features created with HTML , CSS and JavaScript for learning purposes and to practice (Advanced DOM and Events) with JavaScript.
 
 ## Table of Contents
